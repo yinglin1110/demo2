@@ -1,2 +1,3 @@
 hello world
 master insert 1
+child2 insert 1
